@@ -1,0 +1,14 @@
+/*
+Theme Name: Vino Pizza
+Theme URI: http://vinopizza.net
+Author: Antigravity
+Description: A premium restaurant theme for Vino Pizza, supporting Elementor and ACF.
+Version: 1.0.0
+Text Domain: vinopizza
+*/
+
+/* Base styles are handled by Tailwind CDN for now, but we can add custom CSS here if needed. */
+body {
+    background-color: #1a1a1a;
+    color: #e5e5e5;
+}
